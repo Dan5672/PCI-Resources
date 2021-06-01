@@ -4,8 +4,12 @@ AWS Inspector - https://docs.aws.amazon.com/inspector/latest/userguide/inspector
 
 CIS Benchmarks - https://www.cisecurity.org/cis-benchmarks/
 
-CIS Prehardned images - https://www.cisecurity.org/cis-hardened-images/
+CIS Prehardned Images - https://www.cisecurity.org/cis-hardened-images/
 
 DoD Stigs - https://public.cyber.mil/stigs/
 
+Microsoft Security Compliance Toolkit - https://www.microsoft.com/en-us/download/details.aspx?id=55319
+
 NIST Nation Checklist - https://nvd.nist.gov/ncp/repository
+
+Prowler AWS Configuration Analyzer - https://github.com/toniblyx/prowler
